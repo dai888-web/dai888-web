@@ -2,5 +2,5 @@
 它只需要一个文件即（basics.html）,将源代码复制到桌面文件名字设为(basics.html)<p>
 现在用新浏览器窗口打开它。
 类似于这个画面 <p>
-![窗口的摆放](https://github.com/dai888-web/dai888-web/raw/main/材料/1.png)
+![窗口的摆放](材料/1.png)
 123
